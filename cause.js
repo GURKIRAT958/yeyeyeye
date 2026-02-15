@@ -6,7 +6,7 @@
         gif: "gif1.gif"
     },
     { 
-        text: "May your day be filled with love, laughter, and endless joy. 🌸 ", 
+        text: "May your day be filled with love, laughter, and endless joy cutu~ 🌸 ", 
         emoji: "💗",
         gif: "gif2.gif"
     },
@@ -16,7 +16,7 @@
         gif: "gif1.gif"
     },
     { 
-        text: "Stay the amazing girl you are—always spreading positivity around. Have the happiest year ahead! 🥳 ", 
+        text: "Stay the amazing girl you are— Always spreading positivity around. Have the happiest year ahead dear! 🥳 ", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
